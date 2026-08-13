@@ -4,7 +4,14 @@
 
 What started as a state-wide initiative to monitor radon has grown into a nationwide effort to use innovative technologies to monitor all kinds of air quality metrics and build impactful, real-world projects.
 
-`microcontrollers` `machine-learning` `air-quality` `iot` `environmental-sensing` `time-series-forecasting` `computer-vision` `cad` `esp32` `radon-monitoring`
+![Microcontrollers](https://img.shields.io/badge/microcontrollers-esp32-blue)
+![Machine Learning](https://img.shields.io/badge/machine--learning-applied-orange)
+![Air Quality](https://img.shields.io/badge/air--quality-monitoring-green)
+![IoT](https://img.shields.io/badge/iot-sensing-yellow)
+![CAD](https://img.shields.io/badge/cad-hardware--design-lightgrey)
+![Radon Monitoring](https://img.shields.io/badge/radon-monitoring-red)
+![Computer Vision](https://img.shields.io/badge/computer--vision-research-blueviolet)
+![Time Series](https://img.shields.io/badge/time--series-forecasting-9cf)
 
 ---
 
